@@ -1,0 +1,8 @@
+.articleView {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: 35%;
+  min-width: 350px;
+  align-items: center;
+}

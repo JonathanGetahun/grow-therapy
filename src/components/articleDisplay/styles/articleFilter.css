@@ -1,0 +1,6 @@
+.articleViewFilter {
+  display: flex;
+  align-self: center;
+  width: 300px;
+  justify-content: space-between;
+}

@@ -13,4 +13,3 @@
 
     1) Fetches and displays articles and views from wikipedia for certain days.
     2) You can pin any article you choose to the top of the app.
-# grow-therapy
